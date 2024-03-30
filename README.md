@@ -1,22 +1,13 @@
 # PSFusion
-This is official Pytorch implementation of "[Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity](https://www.sciencedirect.com/science/article/pii/S1566253523001860)"
- - 
-```
-@article{TANG2023PSFusion,
-  title={Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity},
-  author={Tang, Linfeng and Zhang, Hao and Xu, Han and Ma, Jiayi},
-  journal={Information Fusion},
-  volume = {99},
-  pages = {101870},
-  year={2023},
-}
-```
+This is official Pytorch implementation of "Efficient Pansharpening by Joint-modality Recursive
+Training"
+
 ## Framework
 <div>
     <img src="https://github.com/Linfeng-Tang/PSFusion/blob/main/Figure/Framework.jpg" alt="Framework" style="display:inline-block;margin-right:20px;margin-bottom:20px;">
 </div>
 <p align="center">
-    <em>The overall framework of the proposed PSFusion.</em>
+    <em>The overall framework of the proposed JMAN.</em>
 </p>
 
 ## Recommended Environment
