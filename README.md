@@ -1,4 +1,4 @@
-# PSFusion
+# JMAN
 This is official Pytorch implementation of "Efficient Pansharpening by Joint-modality Recursive
 Training"
 
