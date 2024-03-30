@@ -4,7 +4,7 @@ Training"
 
 ## Framework
 <div>
-    <img src="https://github.com/Linfeng-Tang/PSFusion/blob/main/Figure/Framework.jpg" alt="Framework" style="display:inline-block;margin-right:20px;margin-bottom:20px;">
+    <img src="https://github.com/songwenhao123/JMAN/blob/main/JMAN/figure/overview.pdf" alt="Framework" style="display:inline-block;margin-right:20px;margin-bottom:20px;">
 </div>
 <p align="center">
     <em>The overall framework of the proposed JMAN.</em>
